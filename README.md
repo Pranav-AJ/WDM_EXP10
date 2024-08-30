@@ -27,4 +27,18 @@
 
 ### Output:
 
+# Read CSV
+
+![image](https://github.com/user-attachments/assets/ab935474-1664-4f09-8140-11f1c5d8a92a)
+
+# Replace @
+
+![image](https://github.com/user-attachments/assets/5063c65a-6018-4f0e-a56d-2e3101d1708a)
+
+![image](https://github.com/user-attachments/assets/00002b74-5229-4df6-8b8d-6a3eafbb8d5f)
+
+![image](https://github.com/user-attachments/assets/17839eac-021f-4b4e-9d6b-766f53fb94a4)
+
 ### Result:
+
+Thus, sentimental analysis for the given data using Rapidminer is done successfully.
